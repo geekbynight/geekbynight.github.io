@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-04-30T05:36:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/10522631",
+      "properties": {
+        "@id": "way/10522631",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "The Marlands",
+        "addr:postcode": "SO14 7EG",
+        "addr:street": "Western Esplanade",
+        "building": "yes",
+        "name": "Asda",
+        "operator": "Asda Stores Limited",
+        "operator:wikipedia": "en:Asda",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4082891,
+              50.9060116
+            ],
+            [
+              -1.4082722,
+              50.9059908
+            ],
+            [
+              -1.407991,
+              50.9057302
+            ],
+            [
+              -1.4077798,
+              50.9055504
+            ],
+            [
+              -1.4076828,
+              50.9055085
+            ],
+            [
+              -1.4075927,
+              50.9055031
+            ],
+            [
+              -1.407486,
+              50.905511
+            ],
+            [
+              -1.4074672,
+              50.9055415
+            ],
+            [
+              -1.4067994,
+              50.9056002
+            ],
+            [
+              -1.4067473,
+              50.9056149
+            ],
+            [
+              -1.4067159,
+              50.9056473
+            ],
+            [
+              -1.406703,
+              50.9056658
+            ],
+            [
+              -1.4068158,
+              50.9061454
+            ],
+            [
+              -1.4067817,
+              50.9061608
+            ],
+            [
+              -1.4067617,
+              50.9061874
+            ],
+            [
+              -1.4067628,
+              50.90622
+            ],
+            [
+              -1.4067744,
+              50.9062396
+            ],
+            [
+              -1.4068293,
+              50.9062705
+            ],
+            [
+              -1.4069144,
+              50.9062779
+            ],
+            [
+              -1.4076178,
+              50.9062244
+            ],
+            [
+              -1.407729,
+              50.9061966
+            ],
+            [
+              -1.4077491,
+              50.9061677
+            ],
+            [
+              -1.4080121,
+              50.9061476
+            ],
+            [
+              -1.4082891,
+              50.9060116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204667417",
+      "properties": {
+        "@id": "way/204667417",
+        "name": "Asda",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3363223,
+              50.9280922
+            ],
+            [
+              -1.336376,
+              50.9277372
+            ],
+            [
+              -1.3358127,
+              50.9277
+            ],
+            [
+              -1.3357322,
+              50.9280618
+            ],
+            [
+              -1.3363223,
+              50.9280922
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
